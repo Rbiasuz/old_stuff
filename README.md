@@ -1,2 +1,2 @@
 # My_Projects
-Hello! Here you read some of my projects!
+Hello! Here you can read some of my projects!
