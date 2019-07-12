@@ -1,88 +1,32 @@
-# Project Title
+# Hi there!
 
-One Paragraph of project description goes here
-
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
-### Prerequisites
-
-What things you need to install the software and how to install them
+I'm doing my Masters in Mechanical Engineering (research about convolutional neural networks), I teach machine learning introduction as part of the university's extension program and I also do freelance work in Data Science, some of my consulting projects:
 
 ```
-Give examples
+-> Grid optimization of university disciplines using natural language processing
+-> Detection of failures by image processing
+-> Report optimization using data engineering
+-> Research, correlation and regression of variables to calculate ROI in product development
+-> Gamification projects over business process.
 ```
 
-### Installing
+## Contents
 
-A step by step series of examples that tell you how to get a development env running
+Here at my GIT you can see (and download) some of the projects that I made (although some datasets are private).
+They are organized in the following folders:
 
-Say what the step will be
+### Convolutional Neural Network - Usinagem
 
-```
-Give the example
-```
+The objective of this study is to implement and test the accuracy of a convolutional neural network under the task of evaluating the adhesion incidence over microscope images of manufacturing. The algorithm was trained over 140 different microscope images, from different resolutions and different directions through 100 epochs; this resulted in a training score of 96.95% (overall accuracy). After the training, a test over other new 40 images was performed, and the accuracy results obtained are 96.77%
 
-And repeat
 
-```
-until finished
-```
+## Contact:
 
-End with an example of getting some data out of the system or using it for a little demo
+* [Linkedin](https://www.linkedin.com/in/rodrigobiasuz/) - My Linkedin Page
 
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
-## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+* **Rodrigo Biasuz** - *Data Scientist* 
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+
 
