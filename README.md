@@ -1,4 +1,4 @@
-# Hi there!
+# Hi there!  :)
 
 I'm doing my Masters in Mechanical Engineering (research about convolutional neural networks), I teach machine learning introduction as part of the university's extension program and I also do freelance work in Data Science, some of my consulting projects:
 
@@ -43,6 +43,3 @@ You can still check other algorithms, distributed in folders, such as "alice-s-t
 
 * **Email: rodrigo_biasuz@hotmail.com**
 
-## Acknowledgments
-
-To my teacher that always supports me, Leandro Luis Corso.
