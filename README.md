@@ -27,8 +27,15 @@ In this project, we optimized the grid of disciplines from an university using n
 
 We evaluate the correlation between over 132 medical questions in a dataset of 900 lines, to verify opportunities of optimization. After that, regressions and A/B tests were performeds to validate the insights
 
+### Analysis of Variance
 
-## Contact:
+Data engineering, Normality assessment, Hypothesis testing, EDA (exploratory data analysis) and Analysis of Variance - we ran the tests using more than 120 xls spreadsheets provided by the company
+
+### Others
+
+You can still check other algorithms, distributed in folders, such as "alice-s-text-analysis" - extracting and processing text using the classic children's book...
+
+## Feel free to contact me :D
 
 * [Linkedin](https://www.linkedin.com/in/rodrigobiasuz/) - My Linkedin Page
 
@@ -38,5 +45,4 @@ We evaluate the correlation between over 132 medical questions in a dataset of 9
 
 ## Acknowledgments
 
-
-
+To my teacher that always supports me, Leandro Luis Corso.
