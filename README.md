@@ -19,12 +19,22 @@ They are organized in the following folders:
 
 The objective of this study is to implement and test the accuracy of a convolutional neural network under the task of evaluating the adhesion incidence over microscope images of manufacturing. The algorithm was trained over 140 different microscope images, from different resolutions and different directions through 100 epochs; this resulted in a training score of 96.95% (overall accuracy). After the training, a test over other new 40 images was performed, and the accuracy results obtained are 96.77%
 
+### Grid optimization
+
+In this project, we optimized the grid of disciplines from an university using natural language processing on the content of each class, we run over 13000 disciplines of 273 curricular structures and found 7272 cases where the similarity was superior of 80%.
+
+### Medical Survey Correlation
+
+We evaluate the correlation between over 132 medical questions in a dataset of 900 lines, to verify opportunities of optimization. After that, regressions and A/B tests were performeds to validate the insights
+
 
 ## Contact:
 
 * [Linkedin](https://www.linkedin.com/in/rodrigobiasuz/) - My Linkedin Page
 
-* **Rodrigo Biasuz** - *Data Scientist* 
+* **Tel: 55 54 999437411**
+
+* **Email: rodrigo_biasuz@hotmail.com**
 
 ## Acknowledgments
 
