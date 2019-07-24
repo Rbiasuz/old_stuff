@@ -31,6 +31,10 @@ We evaluate the correlation between over 132 medical questions in a dataset of 9
 
 Data engineering, Normality assessment, Hypothesis testing, EDA (exploratory data analysis) and Analysis of Variance - we ran the tests using more than 120 xls spreadsheets provided by the company
 
+### Markov Chains
+
+The methodological strategy was developed with the steps of data collection, analysis of variables, creation of the Transition Matrices, application of the Hierarchical Analytical Process and the cross-referencing of the methodologies seeking a decision-making parameter.
+
 ### Others
 
 You can still check other algorithms, distributed in folders, such as "alice-s-text-analysis" - extracting and processing text using the classic children's book...
