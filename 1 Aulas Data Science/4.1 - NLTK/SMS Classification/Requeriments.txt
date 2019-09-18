@@ -1,0 +1,10 @@
+Python 3.7
+Jupyther
+numpy
+pandas 
+urlextract                  
+nltk
+stopwords portuguese                        
+sklearn
+matplotlib
+seaborn 
