@@ -4,16 +4,22 @@ I'm doing my Masters in Mechanical Engineering (research about convolutional neu
 
 ```
 -> Grid optimization of university disciplines using natural language processing
--> Detection of failures by image processing
--> Report optimization using data engineering
+-> Defect Detection by image processing
+-> Reports optimization using data engineering
 -> Research, correlation and regression of variables to calculate ROI in product development
--> Gamification projects over business process.
+-> Gamification projects over business process
+-> Web Crawler to collect relevant data
 ```
 
 ## Contents
 
 Here at my GIT you can see (and download) some of the projects that I made (although some datasets are private).
-They are organized in the following folders:
+They are the following:
+
+### "Aulas Data Science"
+
+Aulas mean Classes, it's where you can view the notebooks that I use as base to my classes.
+
 
 ### Convolutional Neural Network - Usinagem
 
@@ -27,7 +33,7 @@ In this project, we optimized the grid of disciplines from an university using n
 
 We evaluate the correlation between over 132 medical questions in a dataset of 900 lines, to verify opportunities of optimization. After that, regressions and A/B tests were performeds to validate the insights
 
-### Analysis of Variance
+### ANOVA - Analysis of Variance
 
 Data engineering, Normality assessment, Hypothesis testing, EDA (exploratory data analysis) and Analysis of Variance - we ran the tests using more than 120 xls spreadsheets provided by the company
 
@@ -37,7 +43,7 @@ The methodological strategy was developed with the steps of data collection, ana
 
 ### Others
 
-You can still check other algorithms, distributed in folders, such as "alice-s-text-analysis" - extracting and processing text using the classic children's book...
+You can still check other algorithms, distributed in folders, such as "alice-s-text-analysis" - extracting and processing text using the classic children's book, etc...
 
 ## Feel free to contact me :D
 
